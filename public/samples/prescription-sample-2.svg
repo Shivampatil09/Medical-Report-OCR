@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100" width="100%" height="100%" style="background:#fff;font-family:'Courier New', monospace, sans-serif;">
+  <rect width="800" height="1100" fill="#fcfcf8" stroke="#e2e8f0" stroke-width="4"/>
+  <rect x="30" y="30" width="740" height="120" fill="#ecfdf5" rx="8" stroke="#a7f3d0" stroke-width="2"/>
+  
+  <text x="60" y="75" font-size="26" font-weight="bold" fill="#065f46" font-family="sans-serif">APEX CARDIAC &amp; ENDOCRINE CLINIC</text>
+  <text x="60" y="105" font-size="14" fill="#64748b" font-family="sans-serif">Dr. Anita Roy, MD, DM (Cardiology) | Reg No: 33109-M</text>
+  <text x="60" y="125" font-size="13" fill="#059669" font-family="sans-serif">Phone: +91 98112-44332 | Consultation: Mon - Sat (9 AM - 1 PM)</text>
+
+  <!-- Patient Header -->
+  <line x1="40" y1="170" x2="760" y2="170" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="50" y="200" font-size="16" fill="#1e293b" font-family="sans-serif"><b>Patient:</b> Sunita Sharma</text>
+  <text x="350" y="200" font-size="16" fill="#1e293b" font-family="sans-serif"><b>Age:</b> 42 Yrs / Female</text>
+  <text x="600" y="200" font-size="16" fill="#1e293b" font-family="sans-serif"><b>BP:</b> 128/82 mmHg</text>
+  <line x1="40" y1="220" x2="760" y2="220" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- Rx symbol -->
+  <text x="50" y="280" font-size="44" font-weight="bold" fill="#059669" font-family="serif">℞</text>
+
+  <!-- Handwritten-style lines -->
+  <g fill="#0f172a" font-size="19" font-family="'Segoe Script', 'Comic Sans MS', cursive, sans-serif">
+    <text x="70" y="340">1. Tab. Telma 40mg  —  1-0-0  [Morning, empty stomach]</text>
+    <text x="70" y="410">2. Tab. Glycomet 500mg SR  —  1-0-1  [After breakfast &amp; dinner]</text>
+    <text x="70" y="480">3. Cap. Neurobion Forte  —  0-1-0  [After lunch x 30 days]</text>
+    
+    <text x="60" y="600" font-size="18" fill="#334155" font-family="sans-serif"><b>Investigations &amp; Advice:</b></text>
+    <text x="70" y="640">- Repeat FBS &amp; PPBS fasting sugar next week</text>
+    <text x="70" y="680">- Low salt &amp; diabetic diet strictly</text>
+    <text x="70" y="720">- 30 minutes daily morning brisk walk</text>
+  </g>
+
+  <!-- Doctor Stamp and Signature -->
+  <circle cx="650" cy="950" r="45" fill="none" stroke="#059669" stroke-width="2" stroke-dasharray="6,3"/>
+  <text x="625" y="945" font-size="10" fill="#059669" font-family="sans-serif" font-weight="bold">APEX</text>
+  <text x="620" y="960" font-size="10" fill="#059669" font-family="sans-serif" font-weight="bold">CARDIAC</text>
+  <path d="M 580 920 Q 640 880 690 920 T 730 910" fill="none" stroke="#047857" stroke-width="3"/>
+  <text x="610" y="1020" font-size="14" fill="#475569" font-family="sans-serif">Dr. Anita Roy</text>
+</svg>

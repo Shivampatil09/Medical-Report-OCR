@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100" width="100%" height="100%" style="background:#fff;font-family:'Courier New', monospace, sans-serif;">
+  <rect width="800" height="1100" fill="#fcfcf8" stroke="#e2e8f0" stroke-width="4"/>
+  <rect x="30" y="30" width="740" height="120" fill="#fdf2f8" rx="8" stroke="#fbcfe8" stroke-width="2"/>
+  
+  <text x="60" y="75" font-size="26" font-weight="bold" fill="#be185d" font-family="sans-serif">LITTLE CARE PEDIATRIC CLINIC</text>
+  <text x="60" y="105" font-size="14" fill="#64748b" font-family="sans-serif">Dr. Priya Nair, MD (Pediatrics), DCH | Reg No: 51299-K</text>
+  <text x="60" y="125" font-size="13" fill="#db2777" font-family="sans-serif">Child Health &amp; Immunization | Emergency: +91 99001-22119</text>
+
+  <!-- Patient Header -->
+  <line x1="40" y1="170" x2="760" y2="170" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="50" y="200" font-size="16" fill="#1e293b" font-family="sans-serif"><b>Child:</b> Aarav Mehta</text>
+  <text x="350" y="200" font-size="16" fill="#1e293b" font-family="sans-serif"><b>Age:</b> 8 Yrs / Male</text>
+  <text x="600" y="200" font-size="16" fill="#1e293b" font-family="sans-serif"><b>Weight:</b> 24 Kg</text>
+  <line x1="40" y1="220" x2="760" y2="220" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- Rx symbol -->
+  <text x="50" y="280" font-size="44" font-weight="bold" fill="#be185d" font-family="serif">℞</text>
+
+  <!-- Handwritten-style lines -->
+  <g fill="#0f172a" font-size="19" font-family="'Segoe Script', 'Comic Sans MS', cursive, sans-serif">
+    <text x="70" y="340">1. Syp. Calpol 250mg  —  5ml  (SOS for fever &gt; 100°F)</text>
+    <text x="70" y="410">2. Syp. Levolin  —  2.5ml  (1-0-1 x 3 days) [for wheezing]</text>
+    <text x="70" y="480">3. Syp. Meftal-P  —  4ml  (SOS only if fever &gt; 101°F persists)</text>
+    
+    <text x="60" y="600" font-size="18" fill="#334155" font-family="sans-serif"><b>Special Instructions:</b></text>
+    <text x="70" y="640">- Plenty of warm water and electrolyte fluids</text>
+    <text x="70" y="680">- Maintain minimum 6 hours interval between Calpol doses</text>
+    <text x="70" y="720">- SOS visit if respiratory distress or lethargy</text>
+  </g>
+
+  <!-- Doctor Stamp and Signature -->
+  <circle cx="650" cy="950" r="45" fill="none" stroke="#be185d" stroke-width="2" stroke-dasharray="6,3"/>
+  <text x="622" y="945" font-size="10" fill="#be185d" font-family="sans-serif" font-weight="bold">LITTLE CARE</text>
+  <text x="625" y="960" font-size="10" fill="#be185d" font-family="sans-serif" font-weight="bold">PEDIATRIC</text>
+  <path d="M 580 920 Q 640 880 690 920 T 730 910" fill="none" stroke="#9d174d" stroke-width="3"/>
+  <text x="610" y="1020" font-size="14" fill="#475569" font-family="sans-serif">Dr. Priya Nair</text>
+</svg>
